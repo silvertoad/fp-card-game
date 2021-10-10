@@ -1,0 +1,28 @@
+The trump is Clubs
+P1 wins:        P1 has 5 of Clubs, P2 has 10 of Spades.
+P1 wins:        P1 has 7 of Clubs, P2 has 9 of Hearts.
+P2 wins:        P1 has Queen of Diamonds, P2 has King of Spades.
+P1 wins:        P1 has 9 of Diamonds, P2 has 2 of Spades.
+P2 wins:        P1 has Ace of Hearts, P2 has Queen of Clubs.
+Both wins:      P1 has 4 of Hearts, P2 has 4 of Diamonds.
+P2 wins:        P1 has 9 of Spades, P2 has 6 of Clubs.
+P1 wins:        P1 has King of Diamonds, P2 has Jack of Diamonds.
+P2 wins:        P1 has Jack of Hearts, P2 has Ace of Diamonds.
+P2 wins:        P1 has 3 of Clubs, P2 has 9 of Clubs.
+P1 wins:        P1 has King of Clubs, P2 has 4 of Clubs.
+P2 wins:        P1 has 5 of Hearts, P2 has Jack of Spades.
+Both wins:      P1 has 8 of Hearts, P2 has 8 of Spades.
+P1 wins:        P1 has 2 of Clubs, P2 has 3 of Hearts.
+P1 wins:        P1 has Ace of Spades, P2 has 4 of Spades.
+P1 wins:        P1 has 10 of Diamonds, P2 has 6 of Diamonds.
+P1 wins:        P1 has 8 of Clubs, P2 has 7 of Spades.
+P2 wins:        P1 has Queen of Hearts, P2 has Ace of Clubs.
+P1 wins:        P1 has 10 of Clubs, P2 has 2 of Diamonds.
+P1 wins:        P1 has King of Hearts, P2 has 6 of Spades.
+P2 wins:        P1 has 2 of Hearts, P2 has 7 of Hearts.
+P1 wins:        P1 has 5 of Spades, P2 has 3 of Diamonds.
+P1 wins:        P1 has Queen of Spades, P2 has 8 of Diamonds.
+P1 wins:        P1 has Jack of Clubs, P2 has 3 of Spades.
+P2 wins:        P1 has 5 of Diamonds, P2 has 10 of Hearts.
+P1 wins:        P1 has 7 of Diamonds, P2 has 6 of Hearts.
+The winner is: P1
